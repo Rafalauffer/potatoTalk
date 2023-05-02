@@ -8,7 +8,7 @@ body
 {
 background-image: url("wallpaper com titulo.png");
 background-size: cover;
-overflow: hidden;
+overflow: scroll;
 }
 .poteiru
 {
